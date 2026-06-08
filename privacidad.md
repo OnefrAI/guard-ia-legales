@@ -4,13 +4,12 @@ title: Política de Privacidad — GUARD-IA
 
 # Política de Privacidad — GUARD-IA
 
-**Última actualización:** 7 de mayo de 2026
+**Última actualización:** 8 de junio de 2026
 
 ## 1. Responsable del tratamiento
 
 - **Responsable:** Juan Francisco G.T.
-- **Domicilio:** Valencia, España
-- **Contacto:** app.guardia@gmail.com
+- **Contacto:** app.guardia@protonmail.com
 
 A efectos del Reglamento (UE) 2016/679 (RGPD) y de la Ley Orgánica 3/2018 (LOPDGDD), Juan Francisco G.T. es el responsable del tratamiento de los datos personales recabados a través de la aplicación móvil **GUARD-IA** (en adelante, "la App").
 
@@ -19,9 +18,8 @@ A efectos del Reglamento (UE) 2016/679 (RGPD) y de la Ley Orgánica 3/2018 (LOPD
 GUARD-IA está diseñada bajo el principio de **minimización de datos**. Tratamos exclusivamente:
 
 ### 2.1. Datos que tú nos proporcionas
-- **Cuenta de usuario** (si te registras): correo electrónico y contraseña cifrada.
-- **Consultas al asistente legal:** las preguntas que envías al asistente se procesan para devolverte una respuesta. No se asocian de forma permanente a tu identidad salvo que actives el historial.
-- **Datos de suscripción:** si contratas el plan Pro, gestionamos el estado de tu suscripción a través de RevenueCat (ver sección 5).
+- **Consultas al asistente:** las preguntas que envías se procesan para devolverte una respuesta. Se envían sin tu nombre ni datos identificativos y no se asocian de forma permanente a tu identidad.
+- **Datos de suscripción:** si contratas una suscripción de pago, gestionamos su estado a través de RevenueCat (ver sección 5).
 
 ### 2.2. Datos recogidos automáticamente
 - **Identificadores técnicos del dispositivo** (modelo, versión de SO, idioma).
@@ -36,15 +34,15 @@ GUARD-IA está diseñada bajo el principio de **minimización de datos**. Tratam
 
 | Finalidad | Base legal (RGPD) |
 |-----------|-------------------|
-| Prestación del servicio (responder consultas, gestionar cuenta) | Ejecución de contrato (art. 6.1.b) |
-| Gestión de la suscripción Pro | Ejecución de contrato (art. 6.1.b) |
+| Prestación del servicio (responder consultas, gestionar la suscripción) | Ejecución de contrato (art. 6.1.b) |
+| Gestión de la suscripción | Ejecución de contrato (art. 6.1.b) |
 | Mejora de la App y estadísticas anonimizadas | Interés legítimo (art. 6.1.f) |
 | Anuncios personalizados (si los aceptas) | Consentimiento (art. 6.1.a) |
 | Cumplimiento de obligaciones legales (fiscales, requerimientos judiciales) | Obligación legal (art. 6.1.c) |
 
 ## 4. Plazos de conservación
 
-- **Datos de cuenta:** mientras mantengas tu cuenta activa. Tras su eliminación, se conservan 12 meses bloqueados por obligaciones legales.
+- **Datos locales (calendario, notas, fichero seguro):** permanecen cifrados en tu dispositivo bajo tu control y se eliminan al desinstalar la App. No se almacenan en nuestros servidores.
 - **Consultas al asistente:** no se conservan asociadas a tu identidad salvo que actives "Historial". El historial puedes borrarlo en cualquier momento desde Ajustes.
 - **Datos de facturación:** 6 años (art. 30 Código de Comercio).
 - **Logs técnicos:** máximo 90 días.
@@ -72,11 +70,11 @@ Puedes ejercer en cualquier momento los derechos de:
 - **Retirar el consentimiento** prestado.
 - **Reclamar ante la AEPD** (www.aepd.es).
 
-Contacto para ejercer tus derechos: **app.guardia@gmail.com**. Responderemos en un plazo máximo de 1 mes.
+Contacto para ejercer tus derechos: **app.guardia@protonmail.com**. Responderemos en un plazo máximo de 1 mes.
 
 ## 8. Menores
 
-GUARD-IA no está dirigida a menores de 14 años. Si detectamos una cuenta de un menor, será eliminada.
+GUARD-IA no está dirigida a menores de 14 años.
 
 ## 9. Aviso legal sobre el contenido del asistente
 

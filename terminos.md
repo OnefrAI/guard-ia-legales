@@ -4,21 +4,20 @@ title: Términos y Condiciones — GUARD-IA
 
 # Términos y Condiciones de Uso — GUARD-IA
 
-**Última actualización:** 7 de mayo de 2026
+**Última actualización:** 8 de junio de 2026
 
 ## 1. Identificación del prestador
 
 - **Titular:** Juan Francisco G.T.
-- **Domicilio:** Valencia, España
-- **Contacto:** app.guardia@gmail.com
+- **Contacto:** app.guardia@protonmail.com
 
 ## 2. Objeto
 
 Estos Términos regulan el uso de la aplicación móvil **GUARD-IA** (en adelante, "la App"), que ofrece:
 
-- Un **asistente conversacional de información jurídica** basado en inteligencia artificial.
-- Acceso a textos legales, jurisprudencia y recursos formativos.
-- Funcionalidades adicionales bajo suscripción ("Plan Pro").
+- Un **asistente conversacional** basado en inteligencia artificial, orientado a la normativa de aplicación para las Fuerzas y Cuerpos de Seguridad.
+- **Herramientas de consulta** (códigos y normativa, calculadoras, fichero seguro, bloc de notas) y un **calendario de servicio**.
+- Funcionalidades adicionales bajo **suscripción**.
 
 Al instalar o utilizar la App, aceptas estos Términos. Si no estás de acuerdo, no la uses.
 
@@ -32,20 +31,17 @@ GUARD-IA es una herramienta de **información** y **apoyo al estudio**. **No es 
 
 **El usuario es el único responsable de las decisiones que tome basándose en la información proporcionada por la App.** El titular declina cualquier responsabilidad por daños derivados del uso o la confianza depositada en las respuestas del asistente.
 
-## 4. Cuenta de usuario
+## 4. Acceso y seguridad
 
-- Para acceder a determinadas funciones puede ser necesario crear una cuenta.
-- Eres responsable de mantener la confidencialidad de tus credenciales.
-- Notifica de inmediato cualquier uso no autorizado a app.guardia@gmail.com.
-- Una sola persona física por cuenta. Está prohibido compartir credenciales.
+- La App **no requiere registro ni cuenta**: funciona sin que facilites nombre ni contraseña.
+- El acceso a tus datos puede protegerse localmente con un **PIN y/o biometría** que tú configuras en el dispositivo.
+- Eres responsable de custodiar ese PIN. Se guarda cifrado **solo en tu dispositivo**, por lo que no podemos recuperarlo por ti si lo pierdes.
 
-## 5. Suscripción Plan Pro
+## 5. Suscripciones
 
 ### 5.1. Modalidades y precios
-- **Mensual:** 0,99 € / mes
-- **Anual:** 9,99 € / año
-
-Los precios se muestran en la App con impuestos incluidos cuando proceda. Pueden variar según la tienda y el país.
+- La App ofrece una **versión gratuita** (con publicidad) y **varias modalidades de suscripción mensual** que se diferencian por el número de consultas al asistente y eliminan la publicidad.
+- Los **precios y el contenido de cada plan** se muestran en la App con impuestos incluidos cuando proceda, y pueden variar según la tienda y el país.
 
 ### 5.2. Renovación automática
 - La suscripción se renueva automáticamente al finalizar cada periodo, salvo que la canceles al menos **24 horas antes** del vencimiento.
@@ -96,7 +92,7 @@ El tratamiento de datos personales se rige por la **Política de Privacidad** di
 
 ## 11. Resolución del contrato
 
-Puedes eliminar tu cuenta en cualquier momento desde Ajustes. El titular puede cancelar la cuenta en caso de uso indebido.
+Puedes dejar de usar la App y desinstalarla en cualquier momento; tus datos locales se eliminan con ella. El titular puede suspender el acceso al servicio del asistente en caso de uso indebido.
 
 ## 12. Legislación y jurisdicción
 
@@ -106,4 +102,4 @@ Puedes eliminar tu cuenta en cualquier momento desde Ajustes. El titular puede c
 
 ## 13. Contacto
 
-Cualquier duda o reclamación: **app.guardia@gmail.com**
+Cualquier duda o reclamación: **app.guardia@protonmail.com**

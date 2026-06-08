@@ -13,4 +13,4 @@ Aplicación móvil para profesionales: calendario de servicio, herramientas oper
 
 ## Contacto
 
-app.guardia@gmail.com
+app.guardia@protonmail.com
