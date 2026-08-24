@@ -4,7 +4,7 @@ title: Política de Privacidad — GUARD-IA
 
 # Política de Privacidad — GUARD-IA
 
-**Última actualización:** 8 de junio de 2026
+**Última actualización:** 24 de agosto de 2026
 
 ## 1. Responsable del tratamiento
 
@@ -18,8 +18,10 @@ A efectos del Reglamento (UE) 2016/679 (RGPD) y de la Ley Orgánica 3/2018 (LOPD
 GUARD-IA está diseñada bajo el principio de **minimización de datos**. Tratamos exclusivamente:
 
 ### 2.1. Datos que tú nos proporcionas
-- **Consultas al asistente:** las preguntas que envías se procesan para devolverte una respuesta. Se envían sin tu nombre ni datos identificativos y no se asocian de forma permanente a tu identidad.
-- **Datos de suscripción:** si contratas una suscripción de pago, gestionamos su estado a través de RevenueCat (ver sección 5).
+- **Consultas al asistente:** las preguntas que envías se procesan para devolverte una respuesta. Se envían sin tu nombre ni datos identificativos y **no se guardan en nuestros servidores**: ni la pregunta ni la respuesta. El historial de conversaciones que ves en la App vive **solo en tu teléfono** y puedes borrarlo cuando quieras.
+- **Datos de suscripción:** si contratas una suscripción de pago, gestionamos su estado a través de RevenueCat (ver sección 5). El cobro lo realiza Google Play o la App Store: **no vemos ni tratamos tus datos de pago**.
+
+> **Cambio de agosto de 2026.** Hasta la versión anterior, la App incluía unos botones 👍/👎 para valorar las respuestas del asistente. Al pulsar 👎, la conversación se enviaba a nuestro servidor para poder analizar qué había fallado. **Ese sistema se ha retirado por completo y lo que había recogido se ha borrado.** Hoy no existe ninguna vía por la que una conversación tuya llegue hasta nosotros.
 
 ### 2.2. Datos recogidos automáticamente
 - **Identificadores técnicos del dispositivo** (modelo, versión de SO, idioma).
@@ -42,8 +44,10 @@ GUARD-IA está diseñada bajo el principio de **minimización de datos**. Tratam
 
 ## 4. Plazos de conservación
 
-- **Datos locales (calendario, notas, fichero seguro):** permanecen cifrados en tu dispositivo bajo tu control y se eliminan al desinstalar la App. No se almacenan en nuestros servidores.
-- **Consultas al asistente:** no se conservan asociadas a tu identidad salvo que actives "Historial". El historial puedes borrarlo en cualquier momento desde Ajustes.
+- **Datos locales:** todo lo que creas dentro de la App —calendario, turnos, fotos de tareas, bloc de notas y fichero seguro— se guarda **únicamente en tu dispositivo**, nunca en nuestros servidores, y se elimina al desinstalar la App. El **bloc de notas** y el **fichero seguro**, por ser los que guardan datos sensibles, van además **cifrados con AES-256-GCM** y una clave que solo vive en el almacén seguro de tu teléfono; el resto (calendario y sus fotos) se guarda sin cifrar en el área privada de la App, a la que ninguna otra aplicación tiene acceso.
+- **Consultas al asistente:** no se conservan. La pregunta y la respuesta se procesan y se descartan.
+- **Contador de consultas:** cuántas consultas has hecho cada mes, asociado a un identificador anónimo del dispositivo, para poder aplicar el límite de tu plan. Sin contenido alguno de las consultas.
+- **Vinculación de ordenador:** si vinculas un PC al asistente web, se guarda una huella (*hash*) del dispositivo hasta que la revoques.
 - **Datos de facturación:** 6 años (art. 30 Código de Comercio).
 - **Logs técnicos:** máximo 90 días.
 
